@@ -1,0 +1,9 @@
+{
+    "config1": "value1",
+    "config2": "value2",
+    "moreConfig": {
+        "more1": "value3",
+        "more2": "value4"
+    }
+}
+
